@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ryan2025lu-.github.io//sitemap.xml
+Sitemap: https://ryan2025lu-cmd.github.io//sitemap.xml
